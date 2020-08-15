@@ -1,0 +1,4 @@
+#Sat Aug 15 15:10:38 BRT 2020
+base.0=C\:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\app\\intermediates\\transforms\\r8\\release\\1
+path.0=classes.dex
+renamed.0=classes.dex

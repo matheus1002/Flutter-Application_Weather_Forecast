@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-lv\\values-lv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

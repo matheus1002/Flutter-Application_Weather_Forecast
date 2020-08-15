@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus\\Desktop\\App\\Flutter-Application_Weather_Forecast\\build\\url_launcher\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Matheus\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\8f42e0a84a2677f0901d4afb01400cc3\\res\\drawable\\notification_icon_background.xml"
+    }
+]
