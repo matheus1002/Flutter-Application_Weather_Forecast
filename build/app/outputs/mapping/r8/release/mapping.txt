@@ -1788,6 +1788,6 @@ io.flutter.view.VsyncWaiter$1 -> io.flutter.view.t:
 io.flutter.view.VsyncWaiter$1$1 -> io.flutter.view.s:
     io.flutter.view.VsyncWaiter$1 this$1 -> b
     long val$cookie -> a
-androidx.activity.OnBackPressedDispatcher -> androidx.activity.OnBackPressedDispatcher:
-io.flutter.embedding.android.FlutterSplashView -> io.flutter.embedding.android.FlutterSplashView:
 androidx.lifecycle.LiveData -> androidx.lifecycle.LiveData:
+io.flutter.embedding.android.FlutterSplashView -> io.flutter.embedding.android.FlutterSplashView:
+androidx.activity.OnBackPressedDispatcher -> androidx.activity.OnBackPressedDispatcher:

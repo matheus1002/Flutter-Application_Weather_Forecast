@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Aug 15 15:10:39 BRT 2020
+#Sat Aug 15 17:25:55 BRT 2020
 4.path=flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
 13.baseType=DIRECTORY
 8.set=ASSET
