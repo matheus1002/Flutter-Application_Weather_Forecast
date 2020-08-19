@@ -1,6 +1,0 @@
-# Referenced at C:\Users\Matheus\Desktop\App\Flutter-Application_Weather_Forecast\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:24
--keep class com.example.previsao_tempo.MainActivity { <init>(...); }
-# Referenced at C:\Users\Matheus\Desktop\App\Flutter-Application_Weather_Forecast\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:19
--keep class io.flutter.app.FlutterApplication { <init>(...); }
-# Referenced at C:\Users\Matheus\Desktop\App\Flutter-Application_Weather_Forecast\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:48
--keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(...); }
