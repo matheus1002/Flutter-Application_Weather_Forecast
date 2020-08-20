@@ -29,20 +29,6 @@ class ForecastPage extends StatelessWidget {
                       padding: EdgeInsets.all(10.0),
                       child: ListTile(
                           leading: FaIcon(FontAwesomeIcons.thermometerHalf, size: 30.0),
-                          title: Text(getWeather["forecast"][0]["weekday"].toString() + ", dia " + getWeather["forecast"][0]["date"].toString()),
-                          subtitle: Text(
-                              "Mínima de " + getWeather["forecast"][0]["min"].toString() + "°C" +
-                                  " e Máxima de " + getWeather["forecast"][0]["max"].toString() + "°C, "
-                                  "com " +  getWeather["forecast"][0]["description"].toString() + ".")
-                      ),
-                    ),
-                  ),
-                  Padding(padding: EdgeInsets.only(top:4.0)),
-                  Card(
-                    child: Padding(
-                      padding: EdgeInsets.all(10.0),
-                      child: ListTile(
-                          leading: FaIcon(FontAwesomeIcons.thermometerHalf, size: 30.0),
                           title: Text(getWeather["forecast"][1]["weekday"].toString() + ", dia " + getWeather["forecast"][1]["date"].toString()),
                           subtitle: Text(
                               "Mínima de " + getWeather["forecast"][1]["min"].toString() + "°C" +
@@ -93,11 +79,25 @@ class ForecastPage extends StatelessWidget {
                       ),
                     ),
                   ),
+                  Padding(padding: EdgeInsets.only(top:4.0)),
+                  Card(
+                    child: Padding(
+                      padding: EdgeInsets.all(10.0),
+                      child: ListTile(
+                          leading: FaIcon(FontAwesomeIcons.thermometerHalf, size: 30.0),
+                          title: Text(getWeather["forecast"][5]["weekday"].toString() + ", dia " + getWeather["forecast"][5]["date"].toString()),
+                          subtitle: Text(
+                              "Mínima de " + getWeather["forecast"][5]["min"].toString() + "°C" +
+                                  " e Máxima de " + getWeather["forecast"][5]["max"].toString() + "°C, "
+                                  "com " +  getWeather["forecast"][5]["description"].toString() + ".")
+                      ),
+                    ),
+                  ),
                 ],
               )
           )
         ],
-      )
+      ),
     );
   }
 

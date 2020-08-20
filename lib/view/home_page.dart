@@ -140,7 +140,19 @@ class _HomeState extends State<Home> {
                                 leading: FaIcon(FontAwesomeIcons.wind),
                                 title: Text("Vel. Vento"),
                                 trailing: Text(snapshot.data["results"]["wind_speedy"]),
-                              )
+                              ),
+                              new FlatButton.icon(
+                                onPressed: (){
+                                  Navigator.push(context,
+                                      MaterialPageRoute(builder: (context) => ForecastPage(snapshot.data["results"]))
+                                  );
+                                },
+                                textColor: Colors.white,
+                                color: Colors.red,
+                                padding: EdgeInsets.all(10.0),
+                                icon: FaIcon(FontAwesomeIcons.infoCircle),
+                                label: Text('Próximos Dias'),
+                              ),
                             ],
                           ),
                         ),
